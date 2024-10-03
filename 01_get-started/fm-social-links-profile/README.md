@@ -18,8 +18,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [https://github.com/tttam0113/fm-social-links-profile.git](https://github.com/tttam0113/fm-social-links-profile.git)
-- Live Site URL: [https://fm-social-links-profile-rho.vercel.app/](https://fm-social-links-profile-rho.vercel.app/)
+- Solution URL: [https://github.com/tttam0113/frontend-mentor-learning/tree/main/01_get-started/fm-social-links-profile](https://github.com/tttam0113/frontend-mentor-learning/tree/main/01_get-started/fm-social-links-profile)
+- Live Site URL: [https://tttam0113.github.io/frontend-mentor-learning/01_get-started/fm-social-links-profile](https://tttam0113.github.io/frontend-mentor-learning/01_get-started/fm-social-links-profile)
 
 ## My process
 

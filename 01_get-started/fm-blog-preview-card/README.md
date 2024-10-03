@@ -23,8 +23,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/tttam0113/fm-blog-preview-card.git](https://github.com/tttam0113/fm-blog-preview-card.git)
-- Live Site URL: [https://fm-blog-preview-card-three.vercel.app/](https://fm-blog-preview-card-three.vercel.app/)
+- Solution URL: [https://github.com/tttam0113/frontend-mentor-learning/tree/main/01_get-started/fm-blog-preview-card](https://github.com/tttam0113/frontend-mentor-learning/tree/main/01_get-started/fm-blog-preview-card)
+
+- Live Site URL: [https://tttam0113.github.io/frontend-mentor-learning/01_get-started/fm-blog-preview-card](https://tttam0113.github.io/frontend-mentor-learning/01_get-started/fm-blog-preview-card)
 
 ## My process
 

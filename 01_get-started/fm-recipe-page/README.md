@@ -11,10 +11,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -26,8 +23,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/tttam0113/frontend-mentor-learning/tree/main/01_get-started/fm-recipe-page](https://github.com/tttam0113/frontend-mentor-learning/tree/main/01_get-started/fm-recipe-page)
+- Live Site URL: [https://tttam0113.github.io/frontend-mentor-learning/01_get-started/fm-recipe-page/](https://tttam0113.github.io/frontend-mentor-learning/01_get-started/fm-recipe-page/)
 
 ## My process
 
