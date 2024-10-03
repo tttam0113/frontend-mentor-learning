@@ -52,10 +52,6 @@ h2 {
   color: var(--brown-800);
 }
 
-h3 {
-  color: var(--rose-800);
-}
-
 hr {
   border: none;
   border-top: 1px solid var(--stone-150);
@@ -71,7 +67,7 @@ ul > li {
 }
 
 li::marker {
-  color: var(--rose-800);
+  color: var(--brown-800);
 }
 
 li + * {
@@ -116,6 +112,20 @@ li {
   border-radius: 16px;
 }
 
+.recipe__preparation-time h2 {
+  color: var(--rose-800);
+  font-family: 'Outfit', sans-serif;
+  font-weight: 600;
+}
+
+.recipe__preparation-time li::marker {
+  color: var(--rose-800);
+}
+
+.recipe__instructions li::marker {
+  font-weight: 700;
+}
+
 table {
   border-collapse: collapse;
 }
@@ -140,10 +150,18 @@ table tr:last-child td {
 }
 
 table td strong {
-  color: var(--rose-800);
+  color: var(--brown-800);
 }
 
 @media screen and (min-width: 768px) {
+  body {
+    font-size: 16px;
+  }
+
+  h1 {
+    font-size: 42px;
+  }
+
   .recipe {
     border-radius: 12px;
     padding: 40px;
